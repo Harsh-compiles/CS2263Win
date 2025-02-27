@@ -5,3 +5,4 @@ Hello World
 ergsrg
 Hello world
 >>>>>>> 0272e0c (Updated hello.txt)
+conflict update
