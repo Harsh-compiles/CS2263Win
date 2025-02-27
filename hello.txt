@@ -5,8 +5,13 @@ Hello World
 ergsrg
 Hello world
 >>>>>>> 0272e0c (Updated hello.txt)
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 conflict update
 =======
 updating again
 >>>>>>> cb1fcfc (Updated hello.txt with new feature)
+=======
+updating again here
+>>>>>>> a6b3c5a (Resolved conflict in hello.txt)
